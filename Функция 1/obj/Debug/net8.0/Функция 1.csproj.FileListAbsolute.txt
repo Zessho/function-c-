@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\bin\Debug\net8.0\Функция 1.exe
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\bin\Debug\net8.0\Функция 1.deps.json
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\bin\Debug\net8.0\Функция 1.runtimeconfig.json
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\bin\Debug\net8.0\Функция 1.dll
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\bin\Debug\net8.0\Функция 1.pdb
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\Функция 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\Функция 1.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\Функция 1.AssemblyInfo.cs
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\Функция 1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\Функция 1.dll
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\refint\Функция 1.dll
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\Функция 1.pdb
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\Функция 1.genruntimeconfig.cache
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 1\obj\Debug\net8.0\ref\Функция 1.dll
