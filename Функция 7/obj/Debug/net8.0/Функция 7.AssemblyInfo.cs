@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Функция 7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5645b9f79b272a0097a72bc5b9ee703adb3f84f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Функция 7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Функция 7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

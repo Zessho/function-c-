@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\Новая папка\\function c#\\Функции 3\\Функция 3.csproj",
+      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\Новая папка\\function c#\\Функция 3\\Функция 3.csproj",
       "projectName": "Функция 3",
-      "projectPath": "C:\\Users\\Иван\\Desktop\\Новая папка\\function c#\\Функции 3\\Функция 3.csproj",
+      "projectPath": "C:\\Users\\Иван\\Desktop\\Новая папка\\function c#\\Функция 3\\Функция 3.csproj",
       "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Иван\\Desktop\\Новая папка\\function c#\\Функции 3\\obj\\",
+      "outputPath": "C:\\Users\\Иван\\Desktop\\Новая папка\\function c#\\Функция 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",
