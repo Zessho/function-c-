@@ -12,3 +12,4 @@ C:\Users\Иван\Desktop\Новая папка\function c#\Функция 5\obj
 C:\Users\Иван\Desktop\Новая папка\function c#\Функция 5\obj\Debug\net8.0\Функция 5.pdb
 C:\Users\Иван\Desktop\Новая папка\function c#\Функция 5\obj\Debug\net8.0\Функция 5.genruntimeconfig.cache
 C:\Users\Иван\Desktop\Новая папка\function c#\Функция 5\obj\Debug\net8.0\ref\Функция 5.dll
+C:\Users\Иван\Desktop\Новая папка\function c#\Функция 5\obj\Debug\net8.0\Функция 5.sourcelink.json

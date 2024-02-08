@@ -1,12 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Collections.Generic;
+
 int[] nums1 = new int[3] { 1, 2, 3 };
 int[] nums2 = new int[3] { 4, 5, 6 };
 
-void newmass(int[] nums1, int[] nums2)
+int[] newmass(int[] nums1, int[] nums2)
 {
+    
     int a = nums1.Length + nums2.Length;
-    int [] newnums = new int [a];
+    int[] newnums = new int[a];
     for (int i = 0; i < a; i++)
     {
         if (i < nums1.Length)
@@ -18,14 +21,12 @@ void newmass(int[] nums1, int[] nums2)
             newnums[i] = nums2[i - nums1.Length];
         }
     }
-    Console.Write("Новый массив: ");
+    Console.Write($"Новый массив: ");
     for (int i = 0; i < a; i++)
     {
-        
-        { 
-            Console.Write($"{newnums[i]} "); 
-        }
-        
+        Console.Write($"{newnums[i]} ");
     }
+    return newnums; //Возвращает System.Int32[]
 }
-newmass(nums1,nums2);
+int[] message = newmass(nums1, nums2);  // получаем результат метода в переменную message
+Console.Write(message);
