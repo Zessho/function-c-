@@ -5,7 +5,7 @@ using System.Collections.Generic;
 int[] nums1 = new int[3] { 1, 2, 3 };
 int[] nums2 = new int[3] { 4, 5, 6 };
 
-int[] newmass(int[] nums1, int[] nums2)
+string newmass(int[] nums1, int[] nums2)
 {
     
     int a = nums1.Length + nums2.Length;
@@ -22,11 +22,9 @@ int[] newmass(int[] nums1, int[] nums2)
         }
     }
     Console.Write($"Новый массив: ");
-    for (int i = 0; i < a; i++)
-    {
-        Console.Write($"{newnums[i]} ");
-    }
-    return newnums; //Возвращает System.Int32[]
+
+    string result = string.Join(" ", newnums);
+    return result; //Возвращает System.Int32[]
 }
-int[] message = newmass(nums1, nums2);  // получаем результат метода в переменную message
+string message = newmass(nums1, nums2);  // получаем результат метода в переменную message
 Console.Write(message);
